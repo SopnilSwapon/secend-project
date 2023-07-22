@@ -76,3 +76,10 @@ body{
         background-color: black;
         color: white;
     }
+    footer{
+        background-color: black;
+        color: goldenrod;
+        text-align: right;
+        font-size: 60px;
+
+    }
